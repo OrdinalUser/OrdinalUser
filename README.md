@@ -1,6 +1,6 @@
 ## Hi, I'm Tomáš / Ordinal
 
-I make various utility programs that help people achieve their goals or provide QoL and focus on native applications as a flexible all-rounderer.
+I make various utility programs that help people achieve their goals or provide QoL, focusing on desktop applications as a flexible all-rounderer.
 I care deeply about performance and resource optimizations when necessary without the cost of robbing the user of his experience.
 
 ### What I'm working/worked on
@@ -13,6 +13,7 @@ I care deeply about performance and resource optimizations when necessary withou
   - Python, Windows-only native APIs, QT via QFluentWidgets
 - [Grinder](https://github.com/OrdinalUser/grinder)
   - A purpose built Engine for high instancting city scene from core-only libraries in a single semester Computer Graphics class
+  - Core programmed by me, user scene by my classmate
   - C++, ECS principles, Runtime scene loading, Windows-only
 
 ### Tech
