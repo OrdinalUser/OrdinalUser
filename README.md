@@ -19,8 +19,7 @@ I care deeply about performance and resource optimizations when necessary withou
 
 ### Tech
 
-- Daily use: Python
-- Comfortable in: C / C++
+- Comfortable in: Python, C / C++
 - Familiar with: Rust, SQL, C#
 - Current learning focus: Rust, Deployment
 
